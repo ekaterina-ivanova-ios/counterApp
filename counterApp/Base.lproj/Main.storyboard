@@ -52,6 +52,7 @@
                         </constraints>
                     </view>
                     <connections>
+                        <outlet property="changeButton" destination="LjE-54-Pv5" id="vJf-fu-dc4"/>
                         <outlet property="labelCounterView" destination="RGC-WF-C9O" id="CZy-a8-zIo"/>
                     </connections>
                 </viewController>

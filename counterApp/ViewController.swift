@@ -12,6 +12,7 @@ class ViewController: UIViewController {
     private var count: Int = 0
     
     @IBOutlet private weak var labelCounterView: UILabel!
+    @IBOutlet private weak var changeButton: UIButton!
     
     override func viewDidLoad() {
         super.viewDidLoad()
